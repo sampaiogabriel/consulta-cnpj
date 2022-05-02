@@ -1,9 +1,10 @@
 import './App.css';
+import { Header } from './components/header';
 
 function App() {
   return (
     <>
-      React App
+      <Header />
     </>
   );
 }
