@@ -1,10 +1,10 @@
-# Consulta CNPJ/CPF
+# Getting Started with Create React App
 
-Este projeto foi desenvolvido para consultar CNPJ/CPF e ter informações sobre a pessoa jurídica ou pessoa física.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Scripts Disponíveis
+## Available Scripts
 
-Para rodar o projeto:
+In the project directory, you can run:
 
 ### `npm start`
 

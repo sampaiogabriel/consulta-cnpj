@@ -1,0 +1,66 @@
+{
+    "atividade_principal": [
+        {
+            "text": "Desenvolvimento e licenciamento de programas de computador customizáveis",
+            "code": "62.02-3-00"
+        }
+    ],
+    "data_situacao": "07/04/2009",
+    "complemento": "SALA: 603;",
+    "tipo": "MATRIZ",
+    "nome": "E-AUDITORIA SOFTWARES COMO SERVICO LTDA",
+    "uf": "MG",
+    "telefone": "(32) 3212-4324",
+    "email": "honorino@e-auditoria.com.br",
+    "qsa": [
+        {
+            "nome": "CARLA MANSUR DE AZEVEDO",
+            "qual": "49-Sócio-Administrador"
+        },
+        {
+            "nome": "MARCOS FLAVIO LEAL BRASIL",
+            "qual": "22-Sócio"
+        },
+        {
+            "nome": "NUNO DE JESUS NOGUEIRA",
+            "qual": "49-Sócio-Administrador"
+        },
+        {
+            "nome": "FREDERICO MONTEIRO DE CASTRO AMARAL",
+            "qual": "49-Sócio-Administrador"
+        },
+        {
+            "nome": "HONORINO ANTONIO DE ARAUJO",
+            "qual": "49-Sócio-Administrador"
+        }
+    ],
+    "situacao": "ATIVA",
+    "bairro": "CENTRO",
+    "logradouro": "AV BARAO DO RIO BRANCO",
+    "numero": "2872",
+    "cep": "36.010-012",
+    "municipio": "JUIZ DE FORA",
+    "porte": "DEMAIS",
+    "abertura": "07/04/2009",
+    "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+    "cnpj": "10.750.188/0001-49",
+    "ultima_atualizacao": "2022-04-20T18:22:37.330Z",
+    "status": "OK",
+    "fantasia": "",
+    "efr": "",
+    "motivo_situacao": "",
+    "situacao_especial": "",
+    "data_situacao_especial": "",
+    "atividades_secundarias": [
+        {
+            "code": "00.00-0-00",
+            "text": "Não informada"
+        }
+    ],
+    "capital_social": "1000000.00",
+    "extra": {},
+    "billing": {
+        "free": true,
+        "database": true
+    }
+}

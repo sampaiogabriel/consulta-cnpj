@@ -1,12 +1,15 @@
-import './App.css';
-import { Header } from './components/header';
+import Form from './components/Form';
+import Head from './components/Head';
+import Layout from './components/Layout';
 
-function App() {
-  return (
-    <>
-      <Header />
-    </>
-  );
+import 'antd/dist/antd.css';
+
+export default function App() {
+    return (
+        <Layout>
+            <Head />
+            <h1>Consulta CNPJ/CPF</h1>
+            <Form />
+        </Layout>
+    );
 }
-
-export default App;
